@@ -1,1 +1,35 @@
-
+{
+    "title": "Лабораторная работа 6",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание алгоритма",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемые процессы и потоки данных: A13 Взаимодействие с 3D-объектами"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence",
+                    "link": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Sequence.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/imoldobaew/moldobaew-page/blob/master/img/UML%20Sequence.png" 
+        }
+    ]
+}
