@@ -3,13 +3,13 @@
         "id": 1,
         "title": "Лабораторная 4",
         "description": "Диаграмма UML Use Case",
-        "preview": "/img/Uml%20Case.png"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/Uml%20Case.png?raw=true"
     },
     {
         "id": 2,
         "title": "Лабораторная 5",
         "description": "Диаграмма UML Class",
-        "preview": "/img/ERD%20Class.png"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/ERD%20Class.png?raw=true"
     },
      {
         "id": 3,
