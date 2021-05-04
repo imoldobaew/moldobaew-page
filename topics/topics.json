@@ -1,14 +1,26 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "Лабораторная 4",
+        "description": "Диаграмма UML Use Case",
+        "preview": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Uml%20Case.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "Лабораторная 5",
+        "description": "Диаграмма UML Class",
+        "preview": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/ERD%20Class.png"
+    }
+     {
+        "id": 3,
+        "title": "Лабораторная 6",
+        "description": "Диаграмма UML Sequence",
+        "preview": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png"
+    },
+     {
+        "id": 4,
+        "title": "Лабораторная 7",
+        "description": "Диаграмма UML Component",
+        "preview": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Component.png"
     }
 ]
