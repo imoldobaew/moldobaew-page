@@ -1,1 +1,35 @@
-
+{
+    "title": "Лабораторная работа 7",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание состава",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: Структура программных средств системы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Component",
+                    "link": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/txt/UML%20Component.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/imoldobaew/moldobaew-page/blob/master/img/UML%20Component.png" 
+        }
+    ]
+}
