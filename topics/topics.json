@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Лабораторная 4",
         "description": "Диаграмма UML Use Case",
-        "preview": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/Uml%20Case.png"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/Uml%20Case.png"
     },
     {
         "id": 2,
@@ -15,12 +15,12 @@
         "id": 3,
         "title": "Лабораторная 6",
         "description": "Диаграмма UML Sequence",
-        "preview": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Sequence.png"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/UML%20Sequence.png"
     },
      {
         "id": 4,
         "title": "Лабораторная 7",
         "description": "Диаграмма UML Component",
-        "preview": "https://github.com/imoldobaew/imoldobaew.github.io/blob/main/UML%20Component.png"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/UML%20Component.png"
     }
 ]
