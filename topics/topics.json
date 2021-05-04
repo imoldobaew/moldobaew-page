@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Лабораторная 4",
         "description": "Диаграмма UML Use Case",
-        "preview": "https://yandex.ru/images/search?text=фото&from=tabbar&pos=9&img_url=https%3A%2F%2Fwww.gearmerchant.ru%2Fimg%2Fproducts%2F22410-babcock-gosudarstvennyj-park-poljane-creek-mukomolnoj-melnicy-kc850-gostinoj-doma-steny-sovremennogo-iskusstva-dekor-derevjannoj-rame-tkan-plakaty-pechati.jpg&rpt=simage"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/Uml%20Case.png?raw=true"
     },
     {
         "id": 2,
@@ -15,12 +15,12 @@
         "id": 3,
         "title": "Лабораторная 6",
         "description": "Диаграмма UML Sequence",
-        "preview": "/img/UML%20Sequence.png"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/UML%20Sequence.png?raw=true"
     },
      {
         "id": 4,
         "title": "Лабораторная 7",
         "description": "Диаграмма UML Component",
-        "preview": "/img/UML%20Component.png"
+        "preview": "https://github.com/imoldobaew/moldobaew-page/blob/master/img/UML%20Component.png?raw=true"
     }
 ]
