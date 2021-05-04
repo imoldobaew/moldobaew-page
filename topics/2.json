@@ -1,6 +1,34 @@
 {
-    "title": "UML Class",
+    "title": "Лабораторная работа 5",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Структура объекта системы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: Система визуализации трехмерной сцены музея промышленных достижений"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Class"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/imoldobaew/moldobaew-page/blob/master/img/ERD%20Class.png" 
+        }
     ]
 }
